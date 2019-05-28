@@ -53,7 +53,7 @@ pycparser==2.18
 PyDispatcher==2.0.5
 Pygments==2.2.0
 pymongo==3.6.0
-pyOpenSSL==17.0.0
+pyOpenSSL==17.5.0
 pyparsing==2.2.0
 pytesseract==0.1.8
 python-dateutil==2.6.1
